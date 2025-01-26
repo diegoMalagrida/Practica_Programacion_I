@@ -1,6 +1,6 @@
-**# Practica_Programacion_I
+### Practica_Programacion_I
 Práctica final de la asignatura Programación I: Implementación del juego Hundir la Flota en Java.
-**# Hundir la Flota - Practica_Programacion_I
+### Hundir la Flota - Practica_Programacion_I
 
 Práctica final de la asignatura **Programación I**: Implementación del clásico juego de mesa _Hundir la Flota_ en **Java**.
 
