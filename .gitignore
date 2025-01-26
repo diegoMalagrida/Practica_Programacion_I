@@ -1,0 +1,21 @@
+# Archivos de compilación
+*.class
+
+# Logs
+*.log
+
+# Archivos generados por el IDE
+nbproject/private/
+build/
+dist/
+
+# Archivos temporales del sistema
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Configuraciones de tu IDE (opcional, pero recomendable)
+*.iml
+.idea/
+.vscode/
